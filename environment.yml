@@ -1,0 +1,11 @@
+name: numbatutorial
+channels:
+  - numba
+  - conda-forge
+dependencies:
+  - python==3.12
+  - numpy
+  - numba
+  - pytest
+  - streamlit
+  
